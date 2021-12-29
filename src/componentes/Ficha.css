@@ -1,0 +1,14 @@
+.Ficha{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: minmax(100px, auto);
+    color: white;
+}
+
+.Ficha .btn{
+    color: white;
+}
+
+.h3{
+    color: white;
+}
